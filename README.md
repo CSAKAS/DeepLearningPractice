@@ -1,2 +1,2 @@
 # DeepLearningPractice
-dl/ml course/practice programm
+dl/ml course programm
